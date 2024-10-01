@@ -1,0 +1,104 @@
+
+
+
+.name{
+   
+    height: 60px;
+    width: 250;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #ffffff;
+    color: rgb(4, 1, 26);
+    border: none;
+    outline: none;
+    font-family: "Noto Sans Arabic", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    
+    
+}
+
+div{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 450px;
+    height: 500px;
+    background-color: #7ae4ff;
+    border-radius: 50px;
+    border: #ff9900 , 150px;
+    
+    
+    
+}
+
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    height: 50px;
+    width: 500px;
+    background-color: rgb(159, 210, 255);
+    justify-content: center;
+    border-radius: 50px;
+    border: 5px solid rgb(255, 255, 255);
+    gap: 50px;
+    
+    
+    
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button{
+    margin-top: 50px;
+    height: 80px;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #c7f4ff;
+    border: none;
+}
+
+button.hover{
+    background-color: aquamarine;
+}
+
+select{
+
+    height: 60px;
+    width: 250;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #ffffff;
+    color: rgb(4, 1, 26);
+    border: none;
+    outline: none;
+    
+}
+
+
